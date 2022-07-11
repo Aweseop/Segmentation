@@ -6,8 +6,7 @@ You can consider the following three conditions:
 1. Number of categories for each image
 2. Number of category types for each image
 3. Number of annotations in each image
-   
-<br>
+
 Categories can be grouped into lists and customized by referring to visualization and standard deviation for categories using **save_data.ipynb** as follows.
 
 <br>
