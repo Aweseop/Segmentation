@@ -1,5 +1,5 @@
 # Stratified K-Fold for Segmentation
-This is a Pytorch implementation of Stratified K-Fold for Segmentation task. The dataset follows COCO format.
+This is a Pytorch implementation of Stratified K-Fold for Segmentation task. The dataset follows **COCO format**.
 
 You can consider the following three conditions:
 
@@ -8,7 +8,7 @@ You can consider the following three conditions:
 3. Number of annotations in each image
    
 <br>
-Categories can be grouped into lists and customized by referring to visualization and standard deviation for categories using save_data.ipynb as follows.
+Categories can be grouped into lists and customized by referring to visualization and standard deviation for categories using **save_data.ipynb** as follows.
 
 <br>
 
